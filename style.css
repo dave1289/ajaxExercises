@@ -1,0 +1,13 @@
+.gif {
+    height: 300px;
+    width: 300px;
+}
+
+body {
+    background-color: black
+}
+
+form {
+    color: darkslategray;
+    background-color: darkslategray;
+}
